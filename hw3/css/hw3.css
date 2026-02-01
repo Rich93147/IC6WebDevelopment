@@ -22,8 +22,6 @@ h1, h2, h3 {
     width: 300px;
 }
 
-h3 {
-    :hover {
-        color: purple;
-    }
+h3:hover {
+    color: purple
 }
